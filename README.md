@@ -69,4 +69,4 @@ E execute:
 
 #### Fim
 
-**:fa-github-square: [Álesson de Jesus](https://github.com/alessondejesus "Álesson de Jesus")**
+**[Álesson de Jesus](https://github.com/alessondejesus "Álesson de Jesus")**
